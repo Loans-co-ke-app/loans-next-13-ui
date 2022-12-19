@@ -4,7 +4,7 @@ import React from 'react'
 
 const Home:NextPage = () => {
   return (
-    <div>Home</div>
+    <div className='text-purple-500'>Home</div>
   )
 }
 
